@@ -1,1 +1,1 @@
-# dominios-de-sofwate
+# dominios-de-software
